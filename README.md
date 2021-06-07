@@ -7,6 +7,7 @@ The monitoring of tree stress makes use of 3 multispectral bands (near-infrared,
 Details of the technology: https://www.geocarto.hk/
 
 Download "gic_tree_monitoring_tool.zip" and install it as a new plugin in QGIS 3 (https://qgis.org/en/site/forusers/download.html)
+
 Video demonstration: https://youtu.be/zL3hKJSzPPI
 
 Contact Geocarto International Centre Ltd. (geocarto@geocarto.com) for a complete solution in your sites
